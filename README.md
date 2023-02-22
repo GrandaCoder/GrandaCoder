@@ -1,7 +1,4 @@
-<h1 align="center"><b>Hi , I'm Granda </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<h3 align="center">A passionate Web developer from Colombia</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=EAF7F1&center=true&vCenter=true&width=490&lines=Hi+%2C+I'm+Camilo+Granda+;A+passionate+Mobile+Dev+from+Colombia)](https://git.io/typing-svg)
 
 ### 🤵 About Me:
 
