@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=EAF7F1&center=true&vCenter=true&width=490&lines=Hi+%2C+I'm+Camilo+Granda+;A+passionate+Mobile+Dev+from+Colombia)](https://git.io/typing-svg)
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=E3F7EE&multiline=true&width=435&height=80&lines=%3Ch1%3E+Hi!++%F0%9F%91%8B+I'am+Camilo+Granda+%3C%2Fh1%3E;%3Cp%3E+Mobile+Dev+%26+Engineer.+%3C%2Fp%3E)](https://git.io/typing-svg)
+
 
 ### 🤵 About Me:
 
@@ -9,7 +11,7 @@
 - ❤ A passionate Self-taught Mobile Development 
 - 📒 Currently learning Mobile dev and Full Stack Web Development 
 - 💯 Always learning new things
-- 💻 Proficient in Java, Kotlin, Swift, HTML, CSS, and JavaScript
+- 💻 Proficient in Java, Kotlin, HTML, CSS, and JavaScript
 - 📱 Experienced in developing both Android applications
 - 🔍 Interested in exploring new technologies and frameworks
 - 🤝 Collaborative team player with excellent communication skills
