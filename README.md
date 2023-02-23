@@ -1,5 +1,5 @@
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=E3F7EE&multiline=true&width=435&height=80&lines=%3Ch1%3E+Hi!++%F0%9F%91%8B+I'am+Camilo+Granda+%3C%2Fh1%3E;%3Cp%3E+Mobile+Dev+%26+Engineer.+%3C%2Fp%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&color=E3F7EE&width=435&height=80&lines=%3Ch1%3E+Hi!++%F0%9F%91%8B+I'am+Camilo+Granda+%3C%2Fh1%3E;%3Cp%3E+Mobile+Dev+%26+Engineer.+%3C%2Fp%3E)](https://git.io/typing-svg)
 
 
 ### 🤵 About Me:
