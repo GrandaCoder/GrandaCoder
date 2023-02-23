@@ -6,9 +6,17 @@
 
 <br>
 
-- ❤ A passionate Self-taught Front-end developer
-- 📒 Currently learning Full Stack Web Development 
+- ❤ A passionate Self-taught Mobile Development 
+- 📒 Currently learning Mobile dev and Full Stack Web Development 
 - 💯 Always learning new things
+- 💻 Proficient in Java, Kotlin, Swift, HTML, CSS, and JavaScript
+- 📱 Experienced in developing both Android applications
+- 🔍 Interested in exploring new technologies and frameworks
+- 🤝 Collaborative team player with excellent communication skills
+- 🎓 Pursuing a degree in Computer Science
+- 🌎 Enthusiastic about creating apps that can make a positive impact on people's lives
+- 🌟 Striving to create innovative and user-friendly mobile applications
+- 🚀 Excited about the possibilities of the mobile app industry and its future growth potential
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
