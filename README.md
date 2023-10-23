@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=2000&color=E3F7EE&width=435&height=80&lines=%3Ch1%3E+Hi!++%F0%9F%91%8B+I'am+Camilo+Granda+%3C%2Fh1%3E;%3Cp%3E+Mobile+Dev+%26+Engineer.+%3C%2Fp%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=1000&color=F7F7F7&random=false&width=465&lines=%3Ch1%3EHi!++I+am+Camilo+Granda%3C%2Fh1%3E;%3Cp%3ESoftware+Engineer+%26+Frontend+Dev+%3C%2Fp%3E)](https://git.io/typing-svg)
 
 
 ### 🤵 About Me:
@@ -8,17 +8,16 @@
 
 <br>
 
-- ❤ A passionate Self-taught Mobile Development 
-- 📒 Currently learning Mobile dev and Full Stack Web Development 
+- ❤ A passionate Self-taught WEB Development 
+- 📒 Currently Frotend dev Web Development 
 - 💯 Always learning new things
-- 💻 Proficient in Java, Kotlin, HTML, CSS, and JavaScript
-- 📱 Experienced in developing both Android applications
+- 💻 Proficient in HTML, CSS, JavaScript, React
 - 🔍 Interested in exploring new technologies and frameworks
 - 🤝 Collaborative team player with excellent communication skills
 - 🎓 Pursuing a degree in Computer Science
-- 🌎 Enthusiastic about creating apps that can make a positive impact on people's lives
-- 🌟 Striving to create innovative and user-friendly mobile applications
-- 🚀 Excited about the possibilities of the mobile app industry and its future growth potential
+- 🌎 Enthusiastic about creating WEBS that can make a positive impact on people's lives
+- 🌟 Striving to create innovative and user-friendly WEB APPs
+-  🚀 Excited about the possibilities of the Web dev industry and its future growth potential
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
