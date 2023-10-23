@@ -9,7 +9,7 @@
 <br>
 
 - ❤ A passionate Self-taught WEB Development 
-- 📒 Currently Frotend dev Web Development 
+- 📒 Currently Frontend dev Web Development 
 - 💯 Always learning new things
 - 💻 Proficient in HTML, CSS, JavaScript, React
 - 🔍 Interested in exploring new technologies and frameworks
